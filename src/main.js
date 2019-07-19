@@ -9,7 +9,7 @@ import fastclick from 'fastclick'
 import vueLazyLoade from 'vue-lazyload'
 
 import '@/common/stylus/index.styl'
-import '@/common/icon.css'
+// import '@/common/icon.css'
 
 Vue.use(vueLazyLoade, {
   loading: require('@/common/image/default.png')
